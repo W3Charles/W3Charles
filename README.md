@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Kickass Full Stack Web3 Developer.
 ----------------------------------
 
-I first learned to code over 10 years ago. I found my passion for coding again during the second “crypto bubble”, after being in Sales and Marketing & Ecommerce for many years, and after making some big gains in a crypto investment and then losing it all :(. The best part about coding is when you finally make things work. Nothing beats that feeling.
+I first learned to code over 10 years ago. I found my passion for coding again during the second “crypto bubble”, after being in Sales and Marketing & Ecommerce for many years, and making some big gains in a crypto investment — and then losing it all :(. The best part about coding is when you finally make things work. Nothing beats that feeling.
 
 * 🌍  I'm based in Baltimore, MD
 * 🖥️  See my portfolio at [My Website](http://charlessunday.com)

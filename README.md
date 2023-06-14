@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Charles Sunday
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Charles
 ======================================================================================================================================
 
 Kickass Full Stack Web3 Developer.
@@ -8,7 +8,7 @@ I first learned to code over 10 years ago. I found my passion for coding again d
 
 * 🌍  I'm based in Baltimore, MD
 * 🖥️  See my portfolio at [My Website](http://charlessunday.com)
-* ✉️  You can contact me at [www3charles@gmail.com](mailto:www3charles@gmail.com)
+* ✉️  You can contact me at [hello@charlessunday.com](mailto:hello@charlessunday.com)
 * 🧠  I'm learning Thirdweb
 
 ### Skills

@@ -8,6 +8,7 @@ I first learned to code over 10 years ago. I found my passion for coding again d
 
 * 🌍  I'm based in Baltimore, MD
 * 🖥️  See my portfolio at [My Website](http://charlessunday.com)
+* 🤦🏾‍♂️  Check me out on LinkedIn [LinkedIn](https://www.linkedin.com/in/charles-sunday)
 * ✉️  You can contact me at [hello@charlessunday.com](mailto:hello@charlessunday.com)
 * 🧠  I'm learning Thirdweb
 
@@ -41,7 +42,7 @@ I first learned to code over 10 years ago. I found my passion for coding again d
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/w3charles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/w3charles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charles-sunday/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
